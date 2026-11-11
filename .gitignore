@@ -1,0 +1,5 @@
+# homework assignments
+"*.pdf"
+
+# artifacts
+.DS_Store
